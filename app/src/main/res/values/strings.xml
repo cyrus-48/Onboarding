@@ -1,16 +1,18 @@
 <resources>
-    <string name="app_name">Onboarding</string>
+    <string name="app_name">PharmaGuard</string>
 
     //Headings
-    <string name="heading_one">Quick &amp; Easy Payments</string>
-    <string name="heading_two">Instant Notifications</string>
-    <string name="heading_three">Cashless Payment</string>
-    <string name="heading_fourth">Pay Anywhere</string>
+    <string name="heading_one">Buying drugs</string>
+    <string name="heading_two">Types of drugs</string>
+    <string name="heading_three">QR Code Scanning</string>
+    <string name="heading_fourth">BarCode Scanning</string>
 
     //Description
-    <string name="desc_one">Grow your Business By Accepting Card Payments with The New Card Reader</string>
-    <string name="desc_two">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua</string>
-    <string name="desc_three">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua</string>
-    <string name="desc_fourth">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua</string>
+    <string name="desc_one">Once you buy drugs from a Pharmacy, it is good to test for authenticity of the drug</string>
+    <string name="desc_two">Drugs can either be tablets or liquid drugs</string>
+    <string name="desc_three">You will have to scan the QR Code on the drugs you buy to test its authenticity</string>
+    <string name="desc_fourth">The application will also allow barcode scanning</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 
 </resources>
